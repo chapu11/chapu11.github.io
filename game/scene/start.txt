@@ -1,4 +1,4 @@
-bgm:_it I love you-Lana Del Rey.128.mp3;
+bgm:_it I love you-Lana Del Rey.128.mp3 -unlockname=fuck it I love u;
 intro:你好|欢迎来到|Lana Del Rey的世界 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=2500 -hold;
 intro:Fuck It |We Love |Lana Del Rey -fontSize=large -backgroundColor=rgba(237, 225, 225, 1) -fontColor=rgba(158, 49, 49, 1) -animation=pixelateEffect -delayTime=1500 -hold;
 choose:Episode 1：NFR:1.txt;

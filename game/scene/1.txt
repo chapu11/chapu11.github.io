@@ -11,7 +11,7 @@ setTextbox:on;
 :仿佛脚下踩的就是钢琴 -fontSize=large;
 :复古女伶声入耳|禁不住跟着哼唱起来 -fontSize=large;
 setTextbox:hide;
-changeBg:none;
 intro:原来是，心在旋转 -fontSize=large -backgroundColor=rgba(217, 171, 171, 1) -fontColor=rgba(66, 46, 46, 1) -animation=fadeIn -delayTime=1500;
-changeBg:nfr èæ¯.jpg -unlockname=nfr;
+changeBg:nfr 1.jpg -transform={"scale":{"x":1.1,"y":1.1}} -unlockname=nfr ;
+changeBg: -unlockname=nfr;
 callScene:nfr.txt
