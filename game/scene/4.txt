@@ -1,0 +1,9 @@
+bgm:Pokka Pokka-Fishmans.mp3 -unlockname=4.1;
+filmMode:enable;
+changeBg:LDR2.jpg -transform={"position":{"y":-200}};
+setTextbox:on;
+:44 -fontSize=default;
+setTextbox:hide;
+:对话55 -fontSize=default;
+setTextbox:on;
+setTextbox:hide;

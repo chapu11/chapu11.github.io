@@ -1,0 +1,17 @@
+bgm:none;
+intro:如潮水般汹涌，|又如川流般不息 -fontSize=large -backgroundColor=rgba(212, 203, 203, 1) -fontColor=rgba(149, 136, 168, 1) -animation=fadeIn -delayTime=1500 -hold;
+changeBg:OIP-C (1).jpg -transform={"scale":{"x":0.8,"y":0.8}} -unlockname=road;
+setTransform: -target= -duration=0;
+bgm:Norman ing Rockwell-Lana Del Rey.320.mp3 -unlockname=Norman ing Rockwell;
+:夜深，走在路上，脑子无味，迫不及待打开NFR -fontSize=large;
+:歌声起。 -fontSize=large;
+:好像自己也一起泡进海里了 -fontSize=large;
+setTextbox:on;
+setTextbox:on;
+:仿佛脚下踩的就是钢琴 -fontSize=large;
+:复古女伶声入耳|禁不住跟着哼唱起来 -fontSize=large;
+setTextbox:hide;
+changeBg:none;
+intro:原来是，心在旋转 -fontSize=large -backgroundColor=rgba(217, 171, 171, 1) -fontColor=rgba(66, 46, 46, 1) -animation=fadeIn -delayTime=1500;
+changeBg:nfr èæ¯.jpg -unlockname=nfr;
+callScene:nfr.txt
