@@ -1,7 +1,0 @@
-Game_name:欢迎使用WebGAL！;
-Game_key:650d1290bd69684;
-Title_img:LDR2.jpg;
-Title_bgm:happiness is a butterfly.mp3;
-Textbox_theme:imss;
-Description:拉拉打雷之家;
-Game_Logo:;

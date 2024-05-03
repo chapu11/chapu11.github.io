@@ -1,6 +1,0 @@
-bgm:happiness is a butterfly.mp3 -unlockname=happiness is a butterfly;
-changeBg:happiness is a butterfly.jpg -transform={} -unlockname=happiness is a butterfly1;
-:happiness is a butterfly, -fontSize=default;
-:Do you want me or do you not -fontSize=default;
-setTextbox:hide;
-changeBg:happiness is a butterfly2.jpg -unlockname=happiness is a butterfly2;
