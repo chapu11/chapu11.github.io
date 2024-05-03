@@ -1,0 +1,17 @@
+intro:安稳地睡了一觉 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:早起，还得去华夫饼店打工 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+pixiInit;
+:拿出员工卡 -fontSize=large;
+changeBg:haffle houser.jpg -transform={"scale":{"x":0.8,"y":0.8}} -unlockname=haffle houser;
+setTextbox:on;
+:看着金黄色的员工卡|好熟悉 -fontSize=default;
+setTextbox:hide;
+pixiInit;
+changeBg:house1.jpg -transform={"scale":{"x":1.2}};
+setTextbox:on;
+:work work work|we work everyday -fontSize=large;
+:据说恶魔为了在人间作恶|带来了三件东西|分别是 -fontSize=large;
+:小提琴和镜子|还有一件 -fontSize=large;
+:是蒙娜丽莎 -fontSize=default;
+setTextbox:hide;
+changeScene:venice bitch.txt

@@ -1,0 +1,7 @@
+bgm:California-Lana Del Rey.128.mp3 -unlockname=california;
+changeBg:california2.jpg -unlockname=california;
+unlockCg:california2.jpg -name=california;
+:大桥边，余霞轻照 -fontSize=default;
+:是旧金山大桥 -fontSize=default;
+:好想躺着在这样的臂弯里|温暖、惬意 -fontSize=default;
+setTextbox:hide;

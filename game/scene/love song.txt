@@ -1,0 +1,13 @@
+bgm:lovesong-lana del rey.mp3;
+unlockBgm:lovesong-lana del rey.mp3 -name=lovesong;
+changeBg:lovesong.jpg -unlockname=lovesong ;
+:好暗 -fontSize=default;
+:睁眼 -fontSize=default;
+:好像进入了一个混沌一片的世界 -fontSize=default;
+:原来是自己的思绪中啊 -fontSize=default;
+:根据熵增定律，|事物总是自发、不可逆的朝着熵增加（混乱）方向进行 -fontSize=default;
+:整齐的，终归混乱|思绪，感情，乃至整个世界都一样 -fontSize=default;
+:要是生活在熵减世界就好了 -fontSize=default;
+:理不清楚了呢|听听Love song 缓一下吧 -fontSize=default;
+setTextbox:hide;
+changeScene:california.txt
