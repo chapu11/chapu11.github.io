@@ -1,0 +1,8 @@
+Game_name:NFR 呱唧;
+Game_key:22d5de5138a982c;
+Title_img:lanadey title.jpg;
+Title_bgm:Snow On The Beach(Explicit)-Taylor Swift,Lana Del Rey.128.mp3;
+Textbox_theme:imss;
+Game_Logo:logo new .png|logo new 1.jpg;
+Description:呱唧眼中的NFR;
+Package_name:;

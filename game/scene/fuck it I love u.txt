@@ -1,0 +1,21 @@
+playVideo:fuck 44.mp4;
+bgm:_it I love you-Lana Del Rey.128.mp3 -unlockname=fuck it I Love You;
+unlockBgm:_it I love you-Lana Del Rey.128.mp3 -name=Fuck It I Love u;
+changeBg: 选择背景图片;
+intro:I like to see everything in neon|Drink lime green stay up 'til dawn|Maybe the way that I'm living is killing me||I like to light up the stage with a song|Do shit to keep me turned on|But one day I woke up like|"Maybe I'll do it differently" -fontSize=medium -backgroundColor=rgba(140, 184, 183, 1) -fontColor=rgba(255, 255, 255, 1) -animation=typingEffect -delayTime=1500;
+intro:So I moved to California but it's just a state of mind||It turns out everywhere you go you take yourself that's not a lie -fontSize=medium -backgroundColor=rgba(140, 184, 183, 1) -fontColor=rgba(255, 255, 255, 1) -animation=typingEffect -delayTime=1500;
+intro:Wish that you would hold me or just say that you were mine||It's killing me slowly -fontSize=medium -backgroundColor=rgba(143, 184, 183, 1) -fontColor=rgba(255, 255, 255, 1) -animation=typingEffect -delayTime=1500;
+intro:-Dream a little dream of me-|-Make me into something sweet- -fontSize=large -backgroundColor=rgba(140, 184, 183, 1) -fontColor=rgba(255, 255, 255, 1) -animation=typingEffect -delayTime=1500 -hold;
+intro:Turn the radio on dancing to a pop song||**** it I love you||**** it I love you -fontSize=medium -backgroundColor=rgba(140, 184, 183, 1) -fontColor=rgba(255, 255, 255, 1) -animation=typingEffect -delayTime=1500;
+:abyss -fontSize=large;
+:深渊 -fontSize=large;
+:损坏的磁带 -fontSize=large;
+:老旧的琴弦 -fontSize=large;
+:都像这里面的一阵风 -fontSize=large;
+:得到了其中的爱吗？ -fontSize=large;
+:也许吧 -fontSize=large;
+:人们说生活总是充满阳光 -fontSize=large;
+:但在我的记忆中 -fontSize=large;
+:我们一直只是如野兽般流浪 -fontSize=large;
+setTextbox:hide;
+changeScene:Venice bitch.txt
