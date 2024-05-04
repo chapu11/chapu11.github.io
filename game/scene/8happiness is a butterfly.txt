@@ -1,0 +1,18 @@
+bgm:happiness is a butterfly.mp3 -unlockname=happniness is a butterfly;
+unlockBgm:happiness is a butterfly.mp3 -name=happiness is a butterfly;
+changeBg:happiness is a butterfly.jpg -unlockname=happiness is a butterfly1;
+unlockCg:happiness is a butterfly.jpg -name=happiness is a butterfly1;
+:时间一去不复返|而我却记忆犹新 -fontSize=large;
+:转瞬即逝 固然伤感 |但我欣然歌唱 -fontSize=large;
+:幸福像一只蝴蝶|追逐时总会扑空 -fontSize=large;
+:静坐以待，却总会翩然而至 -fontSize=large;
+changeBg:happiness is a butterfly2.jpg -unlockname=happiness is a butterfly 2;
+unlockCg:happiness is a butterfly2.jpg -name=happiness is a butterfly 2;
+:天空并不属于谁|弥漫着阴霾烟羽 -fontSize=large;
+:用这只卑微的手|去追寻我的蝴蝶 -fontSize=large;
+:如果我要走自己的路|我必须要失去你吗？ -fontSize=large;
+:我仍会是一个漂泊者 -fontSize=large;
+setTextbox:hide;
+intro:静栖在窗纱上的乌蝇|那就是我们|我们和它们一样|一样的一无所知 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:该去往何处|...... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+callScene:9california.txt
