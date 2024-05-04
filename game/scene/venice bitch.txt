@@ -1,7 +1,0 @@
-changeBg:venice bitch 2.jpg -duration=3000 -transform={"position":{"y":-80}} -unlockname=venice bitch ;
-bgm:Venice Bh-Lana Del Rey.128.mp3 -unlockname=Venice bh;
-:烟花|海滩 -fontSize=default;
-:还有花园 -fontSize=default;
-setTextbox:hide;
-changeBg:venice bitch 3.jpg -unlockname=venice bitch 3;
-changeScene:happiness is a butterfly.txt
