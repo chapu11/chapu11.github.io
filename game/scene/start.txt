@@ -1,0 +1,11 @@
+bgm:Born to Die-Lana Del Rey.128.mp3 -unlockname=born to die;
+unlockBgm:Born to Die-Lana Del Rey.128.mp3 -name=born to die;
+:游戏过程中|鼠标轻触界面任意一处继续 -fontSize=default;
+:游戏过程中，可能需要一点加载时间|如果出现大量黑屏，请您耐心等待，或者换用兼容性更强的浏览器游玩 -fontSize=default;
+:呱唧向你表示感谢 -fontSize=default;
+:kwazii呱唧的小礼物 -fontSize=default;
+:本游戏献给Lana Del Rey|献给NFR -fontSize=default;
+setTextbox:hide;
+intro:你好|欢迎来到|Lana Del Rey的世界 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=pixelateEffect -delayTime=1500;
+intro:Fuck it|we love |Lana Del Rey -fontSize=large -backgroundColor=rgba(158, 112, 112, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+choose:Episode1:NFR front setting.txt;
